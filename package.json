@@ -1,0 +1,12 @@
+{
+  "name": "coronavirus",
+  "version": "1.0.0",
+  "description": "find the report is positive or negative",
+  "main": "index.js",
+  "scripts": {
+    "start" :"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
